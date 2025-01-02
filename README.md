@@ -1,1 +1,1 @@
-# HomeAI
+# Spotify Project
